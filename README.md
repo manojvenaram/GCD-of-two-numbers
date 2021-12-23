@@ -28,7 +28,7 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![git logo](gcd.png)
 
 
 ## Result:
