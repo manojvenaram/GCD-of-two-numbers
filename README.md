@@ -28,7 +28,7 @@ def gcd():
 ```
 
 ## Output:
-![git logo](gcd.png)
+![git logo](output.png)
 
 
 ## Result:
